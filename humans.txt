@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Samapika Samal   Samapika.dinakaran@gmail.com  SSamal
 
 # THANKS
 
-    Samapika Samal   Samapika.dinakaran@gmail.com
+    <name>
 
 # TECHNOLOGY COLOPHON
 
